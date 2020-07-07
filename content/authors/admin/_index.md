@@ -66,7 +66,7 @@ social:
    link: C:\Users\s1940728\Dropbox\CV-and-foto
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "I.Salerno@sms.ed.ac.uk"
+#email: "I.Salerno@sms.ed.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
