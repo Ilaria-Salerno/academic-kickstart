@@ -20,18 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student, Tutor of Mathematics and Researcher in the fields of Smart city and Energy efficiency of buildings
 
-Academic interests:
+academic interests:
 - Mathematical optimization
 - Energy efficiency
 - ZEB 
 
-Personal interests: 
+personal interests: 
 - Mountaneering 
 - Sport climbing
 - Trail running
 - Calisthenics
-
-
 
 education:
   courses:
@@ -61,20 +59,21 @@ social:
   link: https://github.com/Ilaria-Salerno
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: C:\Users\s1940728\Dropbox\CV-and-foto
+# [[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "I.Salerno@sms.ed.ac.uk"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 
-ENG
+**ENG**
 They call us "optimization guys".
 
 I'm a PhD student in Operational Research and Optimization in the Univerity of Edinburgh and.. actually, I have tried to optimize my entire life by taking two master degrees in 2 years and half: I've attended to a double master degree program and I've obtained my two degrees in Building engineering (Politecnico di Milano) and Energy engineering (Polytechnique Montréal).
@@ -85,7 +84,11 @@ I am involved in tutoring of maths-related classes and I am a Co-organizer of th
 
 I strongly believe in the potential of open-source and sharing knowledge. Accordingly, I am working on several open-source projects, such as the "Energy efficiency for dummies": a set of crush courses and energy-saving tips to help non-expert and homeowners to reduce their consumption. 
 
-ITA
+I will be looking for a position to start in 2022.
+I am primarily looking at positions in academic environments and research institutes.
+My academic CV is available upon request.
+
+**ITA**
 Un'Ingegnere Edile con la passione per lo Sport e l'energetica: un apparente ossimoro ma che, ad una lettura più profonda, nasconde una grande opportunitá di ricerca e voglia di vincere nuove sfide.
 Chi la chiama pazzia, chi eclettismo, per me é capacitá di appassionarsi a ciò che si studia o per cui si lavora, di non annoiarsi mai della propria vita e di trovare sempre un qualcosa di attraente e coinvolgente nella quotidianitá.
 
